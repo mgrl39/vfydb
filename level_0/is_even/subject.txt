@@ -1,0 +1,18 @@
+# IS EVEN
+
+## Task
+Create a program that takes a number as a string argument and displays:
+- "Even" if the number is even
+- "Odd" if the number is odd
+In both cases, follow the output with a newline.
+If no arguments are provided, display just a newline.
+
+## Examples
+$ ./is_even 42
+Even
+$ ./is_even 7
+Odd
+$ ./is_even 0
+Even
+$ ./is_even
+(just a newline) 

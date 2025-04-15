@@ -1,0 +1,15 @@
+# FIRST CHARACTER
+
+## Task
+Write a program that takes a string and displays only its first character followed by a newline.
+If no arguments are provided or the string is empty, display just a newline.
+
+## Examples
+$ ./first_char "Hello"
+H
+$ ./first_char "World"
+W
+$ ./first_char ""
+(just a newline)
+$ ./first_char
+(just a newline) 

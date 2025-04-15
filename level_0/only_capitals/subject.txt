@@ -1,0 +1,15 @@
+# ONLY CAPITALS
+
+## Task
+Write a program that takes a string as an argument and displays only the uppercase letters, followed by a newline.
+If no arguments are provided or the string contains no uppercase letters, display just a newline.
+
+## Examples
+$ ./only_capitals "Hello World"
+HW
+$ ./only_capitals "OpenAI GPT"
+OAIGPT
+$ ./only_capitals "no caps here"
+(just a newline)
+$ ./only_capitals
+(just a newline) 

@@ -1,0 +1,9 @@
+# PRINT ALPHABET
+
+## Task
+Write a program that displays the lowercase alphabet on a single line.
+The output should not contain any spaces or other characters.
+
+## Example
+$ ./print_alphabet
+abcdefghijklmnopqrstuvwxyz 

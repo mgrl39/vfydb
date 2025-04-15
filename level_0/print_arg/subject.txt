@@ -1,0 +1,13 @@
+# PRINT ARGUMENT
+
+## Task
+Create a program that displays the first argument it receives.
+If no arguments are provided, display just a newline.
+
+## Examples
+$ ./print_arg "Hello"
+Hello
+$ ./print_arg "Hello World"
+Hello World
+$ ./print_arg
+(just a newline) 

@@ -1,0 +1,15 @@
+# SUM DIGITS
+
+## Task
+Create a program that takes a positive integer as a string argument and displays the sum of its digits, followed by a newline.
+If no arguments are provided or the input is invalid, display 0 followed by a newline.
+
+## Examples
+$ ./sum_digits 42
+6
+$ ./sum_digits 12345
+15
+$ ./sum_digits 0
+0
+$ ./sum_digits
+0 

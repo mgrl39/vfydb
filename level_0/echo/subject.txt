@@ -1,0 +1,17 @@
+# ECHO
+
+## Task
+Create a program that displays all its arguments, each followed by a newline.
+Arguments should be displayed in the same order they are received.
+If no arguments are provided, the program should display nothing.
+
+## Examples
+$ ./echo Hello World
+Hello
+World
+$ ./echo "One" "Two" "Three"
+One
+Two
+Three
+$ ./echo
+(displays nothing) 

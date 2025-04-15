@@ -1,0 +1,8 @@
+# PRINT NUMBERS
+
+## Task
+Write a program that displays all digits from 0 to 9 in ascending order, with no spaces or newlines between them.
+
+## Example
+$ ./print_numbers
+0123456789 

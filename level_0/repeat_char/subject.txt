@@ -1,0 +1,19 @@
+# REPEAT CHARACTER
+
+## Task
+Write a program that takes two arguments:
+1. A single character
+2. A number N (positive integer)
+
+The program should display the character repeated N times, followed by a newline.
+If the arguments are invalid (wrong number, negative number, etc.), display just a newline.
+
+## Examples
+$ ./repeat_char A 5
+AAAAA
+$ ./repeat_char B 3
+BBB
+$ ./repeat_char X 0
+(just a newline)
+$ ./repeat_char
+(just a newline) 

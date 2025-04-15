@@ -1,0 +1,12 @@
+# HELLO WORLD
+
+## Task
+Write a simple program that outputs the text "Hello, World!" followed by a newline character.
+
+## Example
+When your program is run, it should display exactly:
+Hello, World!
+
+## Hints
+- You'll need to use a function to output text to the console
+- Don't forget the newline character at the end
